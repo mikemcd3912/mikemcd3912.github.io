@@ -15,7 +15,7 @@ company:
   url: "http://aws.amazon.com/.com"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a builder at heart and love tinkering and learning how things work. I began programming while working in Accounting where I saw an opportunity to automate repetative month-end close procedures. After deciding I wanted to work on those types of problems full time, I went back to school and earned a degree in Computer Science. My favorite types of projects are the ones that automate, simplify and help my teams reduce the manual effort needed to get things done. In my role at AWS as a Containers specialist I get to work on those projects by assisting our partners with their GitOps, CI/CD, Infrastructure as code and Containerization projects'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
