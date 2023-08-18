@@ -36,7 +36,7 @@ projects:
   logo: /images/sections/projects/kubernetes.png
   role: Developer
   timeline: "August 2022 - September 2022"
-  repo: https://github.com/tensorflow/tensorflow
+  repo: https://github.com/mikemcd3912/EKSBlueprintsPipeline
   summary: Infrastructure as code defined EKS cluster using EKS blueprints framework, Running a Flutter frontend container and Python API backend container. Container images build and push to container registry automated through Github actions and deployed to the cluster with ArgoCD. CI/CD pipeline updating cluster configuration on changes to infrastructure repository.
   tags: ["hobby", "eks", "ecr", "docker", "ArgoCD", "infrastructure"]
 
