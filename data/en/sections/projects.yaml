@@ -24,7 +24,7 @@ buttons:
 # your projects
 projects:
 - name: Assessment Management Internal Tooling
-  logo: /images/sections/projects/kubernetes.png
+  logo: /images/sections/projects/ts-logo.png
   role: Contributor
   timeline: "August 2022 - March 2023"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -41,6 +41,7 @@ projects:
   tags: ["hobby", "eks", "ecr", "docker", "ArgoCD", "infrastructure"]
 
 - name: Flutter Frontend Container
+  logo: /images/sections/projects/flutter-hd-logo.png
   role: Developer
   timeline: "August 2022 - September 2022"
   repo: "https://github.com/mikemcd3912/Unicorntrader"
@@ -48,7 +49,7 @@ projects:
   tags: ["hobby","flutter", "dart", "container"]
 
 - name: Python API Backend Container
-  logo: /images/sections/projects/no-code.png
+  logo: /images/sections/projects/python-logo.png
   role: Developer
   timeline: "August 2022 - September 2022"
   repo: https://github.com/mikemcd3912/UnicornTraderAPI
@@ -56,7 +57,7 @@ projects:
   tags: ["hobby", "python", "api", "container", "flask", "dynamodb"]
 
 - name: 3 Tier Web Application
-  logo: /images/sections/projects/toha.png
+  logo: /images/sections/projects/java-logo.png
   role: Developer
   timeline: "November 2021 - December 2021"
   repo: https://github.com/mikemcd3912/WebsiteV2
