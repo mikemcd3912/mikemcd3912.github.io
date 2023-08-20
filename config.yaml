@@ -59,8 +59,8 @@ params:
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
-    main: /images/site/tater.png
-    inverted: /images/site/tater.png
+    # main: /images/site/tater.png
+    # inverted: /images/site/tater.png
     favicon: /images/site/tater.png
 
   # GitHub repo of your site
