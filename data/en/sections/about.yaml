@@ -28,10 +28,6 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://www.github.com/mikemcd3912"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
-
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/mike-mcdonald3912/"
