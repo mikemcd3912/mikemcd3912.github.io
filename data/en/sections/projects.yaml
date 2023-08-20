@@ -63,3 +63,11 @@ projects:
   repo: https://github.com/mikemcd3912/WebsiteV2
   summary: Java website application backed by an SQL database, Spring Security for authentication and authorization, Tomcat 9 server on AWS EC2 instance, SSL enabled with custom domain name
   tags: ["hobby","database","java","website", "spring", "hibernate", "mysql", "tomcat", "rds"]
+
+- name: Github Actions Testing Workflows
+  logo: /images/sections/projects/github-mark.png
+  role: Contributor
+  timeline: "July 2023 - Present"
+  repo: https://github.com/aws-samples/eks-anywhere-addons
+  summary: Github Actions bash scripts to generate a ConfigMap File and copy updated files over to a different testing branch for a Partner workload when a new Pull Request is opened, and to clear out the changed files when the Pull Request is closed   
+  tags: ["professional","open source","github","bash", "scripting", "automation"]
