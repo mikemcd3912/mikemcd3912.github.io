@@ -61,7 +61,7 @@ params:
   logo:
     # main: /images/site/tater.png
     # inverted: /images/site/tater.png
-    favicon: /images/site/tater.png
+    favicon: /images/site/favicon.png
 
   # GitHub repo of your site
   gitRepo: https://github.com/mikemcd3912/mikemcd3912.github.io
