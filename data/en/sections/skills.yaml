@@ -13,7 +13,7 @@ section:
 skills:
 - name: Kubernetes
   logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. I have earned the Certified Kubernetes Administrator (CKA) and Certified Kubernetes Application Develoepr (CKAD) credentials, and I am currently working on earning the Certified Kubernetes Security Specialist (CKS) Certification"
+  summary: "Capable of deploying and managing applications on Kubernetes. I have earned the Certified Kubernetes Administrator (CKA) and Certified Kubernetes Application Develoepr (CKAD) credentials, and I am currently working on earning the Certified Kubernetes Security Specialist (CKS) Certification"
   url: "https://kubernetes.io/"
 
 # - name: Go Development
@@ -23,7 +23,7 @@ skills:
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Have with most of the major clouds such as GCP, AWS, Azure, with the most experience in AWS environments."
+  summary: "Experience with most of the major clouds such as GCP, AWS, Azure, with the most experience in AWS environments."
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
@@ -37,11 +37,11 @@ skills:
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Experienced using linux, CLI based tooling, and in writing bash/shell scripts."
+  summary: "Experience using Linux, CLI based tooling, and in writing bash/shell scripts."
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development using Github."
+  summary: "Experience with git-based development using Github."
   url: "https://git-scm.com/"
 
 # - name: C++

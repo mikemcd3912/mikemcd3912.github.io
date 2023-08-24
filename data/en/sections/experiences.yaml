@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Experience
   id: experiences
   enable: true
   weight: 3
@@ -38,7 +38,7 @@ experiences:
     start: Sept 2019
     end: Jan 2021
     responsibilities:
-    - Automated accounting close by identifying inefficiencies in existing processes, designing solutions, and training team members on the new methodology leading to increased timeliness and accuracy of financial statements.
+    - Automated accounting close by identifying inefficiencies in existing processes, designing solutions, and training team members on the new methodology leading to increased timeliness and accuracy of financial statements
     - Collaborated with teams across all lines of business to gain deep understanding of assigned processes and accounts
     - Performed of Month, Quarter and Year end financial statement close duties, Balance sheet Reconciliations, supporting schedules, and SOX control ownership as needed
     - Participated in annual audit and quarterly review procedures performed by internal and external auditors
