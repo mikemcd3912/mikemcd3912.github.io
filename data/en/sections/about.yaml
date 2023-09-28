@@ -57,6 +57,12 @@ badges:
   url: "https://www.credly.com/earner/earned/badge/5a63daf5-5067-4ef1-99ff-52a1d553e0e8"
   badge: "https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png"
 
+- type: certification
+  name: HashiCorp Certified Terraform Associate
+  url: "https://www.credly.com/earner/earned/badge/89e65343-b4a8-4978-81ee-1e29538f6b9a"
+  badge: "https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png"
+
+
 # - type: soft-skill-indicator
 #   name: Leadership
 #   percentage: 85
