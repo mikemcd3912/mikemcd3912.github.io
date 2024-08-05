@@ -8,14 +8,28 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Partner Solutions Architect
+designation: Partner Solutions Architect II
 # your company information
 company:
   name: Amazon Web Services
   url: "http://aws.amazon.com/.com"
 
 # a summary about you
-summary: 'I am a builder at heart and love tinkering and learning how things work. I began programming while working in Accounting where I saw an opportunity to automate repetitive month-end close procedures. After deciding I wanted to work on those types of problems full time, I went back to school and earned a degree in Computer Science. My favorite types of projects are the ones that automate, simplify and help my teams reduce the manual effort needed to get things done. In my role at AWS as a Containers specialist I get to work on those projects by assisting our partners with their GitOps, CI/CD, Infrastructure as code and Containerization projects'
+summary: |
+    I love to solve problems, and have always been interested in how things work. 
+    In my career this has manifested in an interest in making processes more efficient and using data to better 
+    understand the 'why' behind what was happening in the business. I programming while working in Accounting 
+    where I saw an opportunity to automate repetitive manual month-end close procedures so that more of my time 
+    could be spent doing the month-over-month account change analysis. I learned how to use Python, VBA and 
+    PowerBI to automate running the reports and calculation of monthly accrual entries, removing over 30 hours 
+    of unnecessary manual work from each period end and enabling my team to deliver the financial results to 
+    leadership ahead of schedule. After deciding I wanted to work on those types of problems full time, I went 
+    back to school and earned a degree in Computer Science. My favorite types of projects are the ones that automate, 
+    simplify and help my teams reduce the manual effort needed to get things done or ones that get to work 
+    with big data to help make informed decisions. In my role at AWS as a Containers specialist I get to work 
+    on those projects by assisting our partners with their GitOps, CI/CD, Infrastructure as code and 
+    Containerization projects. I am currently interested in leveraging my past Finance and Accounting experience 
+    and newly aquired technology skillset together by moving into Data Engineering'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -62,7 +76,15 @@ badges:
   url: "https://www.credly.com/earner/earned/badge/89e65343-b4a8-4978-81ee-1e29538f6b9a"
   badge: "https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png"
 
+- type: certification
+  name: "AWS Knowledge: Amazon EKS"
+  url: "https://www.credly.com/earner/earned/badge/f6f661d3-4af1-4f7d-a1f5-16bc6da17f93"
+  badge: "https://images.credly.com/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png"
 
+- type: certification
+  name: "AWS Knowledge: Serverless"
+  url: "https://www.credly.com/earner/earned/badge/eb4f3ac3-decc-4487-8fee-1e5b3d9c61e6"
+  badge: "https://images.credly.com/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png"
 # - type: soft-skill-indicator
 #   name: Leadership
 #   percentage: 85

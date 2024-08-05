@@ -5,6 +5,7 @@ nickname: "Mike"
 greeting: "Hi, I am"
 image: "images/author/mike.jpeg"
 # give your some contact information. they will be used in the footer
+
 contactInfo:
   email: "mike.mcdonald3912@gmail.com"
   phone: "720-514-2463"
@@ -14,6 +15,5 @@ contactInfo:
 # some summary about what you do
 summary:
   - I am a Builder
-  - I am a Developer
-  - I love automation
-  - I am a Solutions Architect
+  - I love working with data
+  - I love to learn how things work
