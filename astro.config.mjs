@@ -4,5 +4,6 @@ import sitemap from '@astrojs/sitemap';
 import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
-  site: 'https://mikemcdonald.dev'
+  site: 'https://mikemcdonald.dev',
+  base: "/mikemcd3912.github.io"
 })
